@@ -1,0 +1,6 @@
+c:\users\mos_t\onedrive\เอกสาร\visual studio 2015\Projects\ClosetPairOfPoints\ClosetPairOfPoints\bin\Debug\ClosetPairOfPoints.exe.config
+c:\users\mos_t\onedrive\เอกสาร\visual studio 2015\Projects\ClosetPairOfPoints\ClosetPairOfPoints\bin\Debug\ClosetPairOfPoints.exe
+c:\users\mos_t\onedrive\เอกสาร\visual studio 2015\Projects\ClosetPairOfPoints\ClosetPairOfPoints\bin\Debug\ClosetPairOfPoints.pdb
+c:\users\mos_t\onedrive\เอกสาร\visual studio 2015\Projects\ClosetPairOfPoints\ClosetPairOfPoints\obj\Debug\ClosetPairOfPoints.csprojResolveAssemblyReference.cache
+c:\users\mos_t\onedrive\เอกสาร\visual studio 2015\Projects\ClosetPairOfPoints\ClosetPairOfPoints\obj\Debug\ClosetPairOfPoints.exe
+c:\users\mos_t\onedrive\เอกสาร\visual studio 2015\Projects\ClosetPairOfPoints\ClosetPairOfPoints\obj\Debug\ClosetPairOfPoints.pdb
